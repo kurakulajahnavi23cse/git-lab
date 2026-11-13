@@ -1,2 +1,7 @@
 feature work
+<<<<<<< HEAD
 change from branch2
+=======
+change from branch1
+>>>>>>> branch1
+change from branch1 and branch2
